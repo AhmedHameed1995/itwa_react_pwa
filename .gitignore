@@ -11,6 +11,7 @@
 # production
 /build
 /package.json
+/yarn.lock
 
 # misc
 .DS_Store
